@@ -10,7 +10,7 @@ The tool runs on windows and linux
 
 #### Debian Based
 ```
-git clone https://github.com/Cat-Linux/BeaverRecon.git
+git clone https://github.com/elithing3/BeaverRecon.git
 cd BeaverRecon
 chmod +x install.sh && ./install.sh
 python3 BeaverRecon.py
